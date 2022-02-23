@@ -1,0 +1,15 @@
+{
+
+    “name”: “luovabot”,
+    
+    “version”: “0.0.1”,
+    
+    “description”: “Luova.club discord bot”,
+    
+    “main”: “bot.js”,
+    
+    “author”: “Luova.club”,
+    
+    “dependencies”: {}
+    
+    }
